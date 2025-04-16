@@ -11,7 +11,7 @@ function Navbar() {
                 <li><a href="#features" className='text-xl font-semibold'>Features</a></li>
                 <li><a href="#prices" className='text-xl font-semibold'>Prices</a></li>
             </ul>
-            <button className='bg-[#167DE5] px-10 py-5 rounded-[20px] text-xl font-bold text-white'><p>Sign Up Now</p></button>
+            <button className='bg-[#167DE5] px-10 py-5 my-5 rounded-[20px] text-xl font-bold text-white'><p>Sign Up Now</p></button>
         </div>
     </nav>
   )
